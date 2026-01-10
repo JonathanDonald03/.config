@@ -94,7 +94,7 @@ outer.left =       2
 outer.bottom =     2
 outer.top = [
   { monitor."Built-in Retina Display" = 2 }, # smaller top gap on laptop
-  { monitor."WV34FS165"             = 40 }, # bigger top gap on external
+  { monitor."WV34FS165"             = 28 }, # bigger top gap on external
 { monitor."DELL P2311H" = 40},
   20                                   # default if no match
 ]
